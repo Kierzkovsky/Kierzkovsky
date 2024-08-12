@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kierzkovsky&label=Profile%20views&color=0e75b6&style=flat" alt="kierzkovsky" /> </p>
 
-- 🔭 I’m currently working on **broadly understood web device**
+- 🔭 I’m currently working on **"broadly understood web dev"**
 
 - 🌱 I sympathize with **JavaScript and Cypress framework**
 
